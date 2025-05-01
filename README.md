@@ -18,8 +18,7 @@ A modern enterprise resource planning dashboard demonstrating user role manageme
 
 # 🚀 Installation
 
-
-bash```
+```bash
 # Clone repository
 git clone https://github.com/Eduardo-J-Morales/ERP-Fusion-Dashboard.git
 
