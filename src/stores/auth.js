@@ -11,6 +11,7 @@ export const useAuthStore = defineStore('auth',  {
                 username,
                 role: username === 'admin' ? 'admin' : 'manager'
             }
+            this.isAuthenticated = true
         },
         logout() {
             this.user = null
