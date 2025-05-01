@@ -8,7 +8,7 @@ A modern enterprise resource planning dashboard demonstrating user role manageme
 [![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?logo=vue.js&logoColor=white)](https://router.vuejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# <em>Experience NeuroFlow AI → [Live Demo](https://neuro-flow-ai-git-main-eduardo-j-morales-projects.vercel.app/)</em>
+# <em>Experience NeuroFlow AI → [Live Demo](https://erp-fusion-dashboard.vercel.app/)</em>
 
 ## 🧬 Core Features
 - **Interactive Data Grids**: Real-time inventory management
