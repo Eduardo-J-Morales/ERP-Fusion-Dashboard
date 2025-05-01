@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import { useAuthStore } from '../stores/auth'
+import type { Router } from 'vue-router'
 
 const routes = [
     {
@@ -21,10 +22,11 @@ const routes = [
     {path: '/', redirect: '/login'}
 ]
 
-const router = createRouter({
+const router: Router = createRouter({
     history: createWebHistory(),
     routes
 })
+
 
 router.beforeEach((to, from, next) => {
     const authStore = useAuthStore()
