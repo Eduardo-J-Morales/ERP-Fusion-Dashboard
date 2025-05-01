@@ -1,27 +1,6 @@
 import { defineStore } from 'pinia'
-import { Store } from 'vuex'
 
-interface User {
-    username: string;
-    role: 'admin' | 'manager' | undefined;
-  }
-  
-  interface AuthState {
-    user: User | null;
-    isAuthenticated: boolean;
-  }
-  
-  interface AuthActions {
-    login: (username: string) => void;
-    logout: () => void;
-  }
-  
-  interface AuthGetters {
-    currentRole: (state: AuthState) => 'admin' | 'manager' | undefined;
-  }
-  
-
-export const useAuthStore: Store = defineStore('auth',  {
+export const useAuthStore = defineStore('auth',  {
     state: () => ({
         user: null,
         isAuthenticated: false
