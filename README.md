@@ -17,7 +17,6 @@ A modern enterprise resource planning dashboard demonstrating user role manageme
 - **Mock Auth System** JWT-style authentication flow
 
 # 🚀 Installation
-
 ```bash
 # Clone repository
 git clone https://github.com/Eduardo-J-Morales/ERP-Fusion-Dashboard.git
