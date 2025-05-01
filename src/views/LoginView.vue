@@ -10,9 +10,7 @@ const router = useRouter()
 
 const handleLogin = () => {
     authStore.login(username.value, password.value)
-    console.log('auth')
     router.push('/dashboard')
-    console.log('push')
 }
 </script>
 <template>
