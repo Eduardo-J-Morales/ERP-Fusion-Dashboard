@@ -11,3 +11,11 @@ A modern enterprise resource planning dashboard demonstrating user role manageme
 # <em>Experience NeuroFlow AI → [Live Demo](https://neuro-flow-ai-git-main-eduardo-j-morales-projects.vercel.app/)</em>
 
 ## 🧬 Core Features
+- **Interactive Data Grids**: Real-time inventory management
+- **Sales Analytics**: Quaterly revenue visualization
+- **Employee Directory**: Workforce status monitoring
+- **Mock Auth System** JWT-style authentication flow
+
+# 🚀 Installation
+
+
