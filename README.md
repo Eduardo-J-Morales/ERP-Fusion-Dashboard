@@ -26,11 +26,11 @@ A modern enterprise resource planning dashboard demonstrating user role manageme
     ```
 
 2. ### Install dependencies:
-  ```bash
-  npm install
-  ```
+    ```bash
+    npm install
+    ```
 
 3. ### Run the app:
-  ```bash
-  npm run dev
-  ```
+    ```bash
+    npm run dev
+    ```
