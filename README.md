@@ -1,4 +1,4 @@
-# ERP Fusion Dashboard 💼📊
+# ERP Fusion Dashboard 
 
 A modern enterprise resource planning dashboard demonstrating user role management, real-time data visualization, and complex business operations handling. Built with Vue 3 and Vuetify 3 for enterprise-grade applications.
 
@@ -8,23 +8,29 @@ A modern enterprise resource planning dashboard demonstrating user role manageme
 [![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?logo=vue.js&logoColor=white)](https://router.vuejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# <em>Experience NeuroFlow AI → [Live Demo](https://erp-fusion-dashboard.vercel.app/)</em>
+> ⚡ **Note:** There is an explanation to install this Web App below for developers, however you don't need to install anything to try this Web App!  
+> An online demo is available here: [Live Web App Deployment](https://erp-fusion-dashboard.vercel.app/)
 
-## 🧬 Core Features
+## Core Features
 - **Interactive Data Grids**: Real-time inventory management
 - **Sales Analytics**: Quaterly revenue visualization
 - **Employee Directory**: Workforce status monitoring
 - **Mock Auth System** JWT-style authentication flow
 
-# 🚀 Installation
-```bash
-# Clone repository
-git clone https://github.com/Eduardo-J-Morales/ERP-Fusion-Dashboard.git
+# Installation
 
-# Install dependencies
-cd ERP-Fusion-Dashboard
-npm install
+1. ### Clone the repo:
+  ```bash
+  git clone https://github.com/Eduardo-J-Morales/ERP-Fusion-Dashboard.gi
+  cd ERP-Fusion-Dashboard
+  ```
 
-# Start development server
-npm run dev
-```
+2. ### Install dependencies:
+  ```bash
+  npm install
+  ```
+
+3. ### Run the app:
+  ```bash
+  npm run dev
+  ```
