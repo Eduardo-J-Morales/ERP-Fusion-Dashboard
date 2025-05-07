@@ -20,10 +20,10 @@ A modern enterprise resource planning dashboard demonstrating user role manageme
 # Installation
 
 1. ### Clone the repo:
-  ```bash
-  git clone https://github.com/Eduardo-J-Morales/ERP-Fusion-Dashboard.gi
-  cd ERP-Fusion-Dashboard
-  ```
+    ```bash
+    git clone https://github.com/Eduardo-J-Morales/ERP-Fusion-Dashboard.gi
+    cd ERP-Fusion-Dashboard
+    ```
 
 2. ### Install dependencies:
   ```bash
