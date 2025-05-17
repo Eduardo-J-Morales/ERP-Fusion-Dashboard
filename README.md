@@ -37,3 +37,7 @@ A modern enterprise resource planning dashboard demonstrating user role manageme
     ```bash
     npm run dev
     ```
+    
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
