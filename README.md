@@ -3,7 +3,7 @@
 A modern enterprise resource planning dashboard demonstrating user role management, real-time data visualization, and complex business operations handling. Built with Vue 3 and Vuetify 3 for enterprise-grade applications.
 
 > ⚡ **Note:** There is an explanation to install this Web App below for developers, however you don't need to install anything to try this Web App!  
-> An online demo is available here: [Live Web App Deployment](https://ingredient-based-recipes-finder.zeabur.app/)
+> An online demo is available here: [Live Web App Deployment](https://erp-fusion-dashboard.zeabur.app/login)
 
 ## Features
 
